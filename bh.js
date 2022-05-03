@@ -1,2 +1,2 @@
 // updated information
-console.log ("this is fun);
+console.log ("this is fun");
