@@ -3,4 +3,4 @@
 */
 
 // what's wrong with this picture?
-console.log("here is my comment);
+console.log("here is my comment");
