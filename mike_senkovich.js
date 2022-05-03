@@ -1,4 +1,6 @@
 /* mike_senkovich.js
 *
 */
-console.log("here is my comment);
+
+// what's wrong with this picture?
+console.log("here is my comment");
